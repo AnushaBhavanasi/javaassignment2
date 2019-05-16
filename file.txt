@@ -1,0 +1,6 @@
+java follows 4 principles
+encapsulation
+polymorphism
+inheritance
+Abstraction
+
